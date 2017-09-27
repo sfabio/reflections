@@ -1,6 +1,0 @@
-questo è un file di prova
-per imparare ad usare github
-
-ciao
-
-.
