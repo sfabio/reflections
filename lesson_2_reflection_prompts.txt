@@ -22,5 +22,5 @@ What is the result of merging two branches together? Why do we represent it in t
 	the result is to have only one branch with all the commits of the two previous brunches ordered by time of creation
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	you can choose which version you prefer or how to consider both variations 
